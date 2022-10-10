@@ -19,29 +19,27 @@ Diseñar y construir una landing page de una empresa que responda a las siguient
 ## Requisitos de Usuario
 - La página debe contar con un menú para poder "navegar a cada uno de los apartados"
 - Debe contar con imágenes/vídeos y texto
-- Debe contar con un formulario para recoger información de subscriptores.
+- Debe contar con un **formulario** para recoger información de subscriptores.
 
-## Requisitos técnicos
+## Requisitos de desarrollo
 
 - [HTML semántico y accesible](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/). (`<div>` ⛔)
 - Incluir [estilos de reset](https://es.wikipedia.org/wiki/Reset_CSS)
-- La página debe ser [responsive](https://en.wikipedia.org/wiki/Responsive_web_design).
+- [responsive](https://en.wikipedia.org/wiki/Responsive_web_design).
+- 💪 **BONUS-TRACK**: UX Design principles: [colores,tipografías, grid, iconos](https://medium.com/pennypang-goals/style-guide-for-ui-cheat-sheet-f183cbe6ff44), [botones](https://medium.com/the-school-of-do/ui-cheat-sheets-buttons-7856ff90f544 ),...
 
-## Iteraciones de desarrollo
+## Tareas del proyecto
 
-
-## Project status
-
-- [ ] Design
-- [ ] Mockups
-- [ ] Development
-- [ ] Unit testing
-- [ ] QA
-- [ ] Stage
-- [ ] Beta Testing
-- [ ] Production
-
-- Se enviará vía slack la url del repositorio de GitHub y la url de la presentación.
+- [ ] Herramientas y cuentas: VSCode + Plugins, Git + GitHub, Trello y Figma
+- [ ] Tablero kanban en Trello e invitaciones a los miembros del equipo como colaboradores
+- [ ] Tareas del proyecto en Trello y asignaciones
+- [ ] Repositorio en github e invitaciones a los miembros del equipo como colaboradores
+- [ ] Diseño del prototipo en figma (mockup)
+- [ ] Desarrollo: https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/
+- [ ] Pruebas: https://validator.w3.org/
+- [ ] Despliegue: gh-pages
+- [ ] Presentación
+- [ ] Entrega vía slack la url del repositorio de GitHub y la url de la presentación.
 
 ## Rúbrica de Evaluación del Proyecto
 

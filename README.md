@@ -1,49 +1,31 @@
 # Startup Web Page
 
 ## Intro
-En este proyecto construiremos una **group page** o **mob page**). Una página grupal suele corresponder con la sección **about us** de un sitio web.
 
-Una buena "About page" debe ser original y diferente. Debe ofrecer una visión de cómo es el negocio. Y suelen incluir intereses personales, fotos y pequeñas historias que contribuyen a escribir la historia de la compañía, grupo, etc.
+Este proyecto representa la entrada al mundo del desarrollo web, se combinan distintos temas, herramientas y metodologías para hacer una pequeña aproximación al desarrollo IT.
+
+Formáis parte de una empresa de inminente creación que destaca por nuevos valores y forma de hacer las cosas. El primer paso para daros a conocer es publicar una [__landing page__](https://en.wikipedia.org/wiki/Landing_page) con información sobre quiénes sois y cual es la visión que aportáis al negocio que queréis lanzar.
 
 ## Objetivo
 
-Diseñar y construir una página de grupo que responda a las siguientes cuestiones:
+Diseñar y construir una landing page de una empresa que responda a las siguientes cuestiones:
 
 - ¿Cual es la **misión** de este grupo? Debe decir algo que se recuerde.
 - ¿Un resumen de la **historia** del grupo? Como el grupo no hace demasiado tiempo que está junto se debería indicar qué os ha traído hasta aquí.
-- ¿Qué os distingue de otros grupos similares? Cual es vuestra **idea**.
+- ¿Qué os distingue de las empresas de la competencia? Cual es vuestra **idea**.
+- ¿Quiénes formáis parte de la **empresa**?
 - ¿Cual es vuestro **portfolio**?
-- ¿Quiénes formais parte del **grupo**?
 
 ## Requisitos de Usuario
-- La página debe contar con los siguientes elementos:
-  - Un menú con los apartados que vamos a incluir. Por ejemplo:
-    - Misión
-    - Historia
-    - Ídea
-    - Proyectos
-    - Miembros
-
-- El apartado misión debe incluir, al menos:
-  - Una imagen con un texto y un título. Algo similar a esto:
-![misión](https://i.imgur.com/yFOaJqo.png).
-
-- El apartado historia del grupo puede contener un pequeño vídeo o galería de fotografías, memes, imágenes, ... Puede contener o no texto.
-
-- La ídea debe estar expresada de forma original. Puede ser mediante animaciones, texto, etc.
-
-- Proyectos debe ser una galería de imágenes con una breve descripción. Deben ser clicables para navegar a las webs descritas. Deben tener algún efecto de hovering.
-
-- Miembros estará formado por una serie de cards clicables que deberán conectar con la página personal de cada miembro (futuro desarrollo), también con efecto hover.
+- La página debe contar con un menú para poder "navegar a cada uno de los apartados"
+- Debe contar con imágenes/vídeos y texto
+- Debe contar con un formulario para recoger información de subscriptores.
 
 ## Requisitos técnicos
 
-- Se deberán utilizar etiquetas semánticas.
-- Debera existir una hero image con título centrado.
-- Los apartados se incluirán en la misma página y la navegación del menú será vía parciales (**"#"**).
-- Se debe incluir alguna fuente vía cdn o instalada.
-- Se debe incluir resetCSS.
-- La página debe ser responsive y adaptativa. Debe haber un formato móvil con menú hamburguesa (no es necesario que sea funcional).
+- [HTML semántico y accesible](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/). (`<div>` ⛔)
+- Incluir [estilos de reset](https://es.wikipedia.org/wiki/Reset_CSS)
+- La página debe ser [responsive](https://en.wikipedia.org/wiki/Responsive_web_design).
 - La aplicación se subirá a GitHub con la siguiente estructura:
  ```html
         proyecto/

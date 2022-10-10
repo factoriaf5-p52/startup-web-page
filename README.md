@@ -40,7 +40,7 @@ Diseñar y construir una landing page de una empresa que responda a las siguient
 - [ ] Desarrollo: https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/
 - [ ] Pruebas: https://validator.w3.org/
 - [ ] Despliegue: gh-pages
-- [ ] Presentación
+- [ ] Presentación: [10/20/30 rule](https://guykawasaki.com/the_102030_rule/)
 - [ ] Entrega vía slack la url del repositorio de GitHub y la url de la presentación.
 
 ## Rúbrica de Evaluación del Proyecto

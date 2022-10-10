@@ -26,20 +26,20 @@ Diseñar y construir una landing page de una empresa que responda a las siguient
 - [HTML semántico y accesible](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/). (`<div>` ⛔)
 - Incluir [estilos de reset](https://es.wikipedia.org/wiki/Reset_CSS)
 - La página debe ser [responsive](https://en.wikipedia.org/wiki/Responsive_web_design).
-- La aplicación se subirá a GitHub con la siguiente estructura:
- ```html
-        proyecto/
-        ├─ images/
-        │  ├─ /* all images go here */
-        ├─ styles/
-        │  ├─ /*all style sheets go here*/
-        ├─ index.html
-        ├─ readme.md
- ```
-- En el readme del repositorio se deberá incluir un link al diseño de la aplicación.
-- La aplicación debe desplegarse como **gh-page**.
 
-## Entrega
+## Iteraciones de desarrollo
+
+
+## Project status
+
+- [ ] Design
+- [ ] Mockups
+- [ ] Development
+- [ ] Unit testing
+- [ ] QA
+- [ ] Stage
+- [ ] Beta Testing
+- [ ] Production
 
 - Se enviará vía slack la url del repositorio de GitHub y la url de la presentación.
 
